@@ -10,15 +10,22 @@
   "author": "Kenneth",
   "license": "ISC",
   "dependencies": {
-    "core-js": "^3.21.0",
-    "fraction": "^0.2.0",
-    "parcel": "^2.3.1",
-    "regenerator-runtime": "^0.13.9",
-    "saas": "^1.0.0"
+    "core-js": "^3.6.5",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.7"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.3.1",
-    "fractional": "^1.0.0",
-    "path-browserify": "^1.0.1"
-  }
+    "@parcel/transformer-sass": "^2.3.2",
+    "parcel": "^2.0.0-beta.1",
+    "sass": "^1.26.10"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KennethNnalue/forkify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KennethNnalue/forkify/issues"
+  },
+  "homepage": "https://github.com/KennethNnalue/forkify#readme"
 }
